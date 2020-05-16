@@ -14,7 +14,7 @@ const div = (a, b) => { // written by gy
   return a / b;
 };
 
-module.exports = {
+module.exports = { // written by Iza
   sum,
   sub,
   mul,
