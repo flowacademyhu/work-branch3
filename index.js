@@ -6,11 +6,11 @@ const sub = (a, b) => { // writen by Daniel
   return a - b;
 };
 
-const mul = (a, b) => {
+const mul = (a, b) => { // written by gy
   return a * b;
 };
 
-const div = (a, b) => {
+const div = (a, b) => { // written by gy
   return a / b;
 };
 
