@@ -4,4 +4,10 @@ const mul = (a, b) => {
 
 const div = (a, b) => {
   return a / b;
+
+module.exports = {
+  sum,
+  sub,
+  mul,
+  div
 };
